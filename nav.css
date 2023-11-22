@@ -1,0 +1,160 @@
+nav{
+    height: 75px;
+    
+    background-color: black;
+    display: flex;
+    
+}
+.l0go{
+    color:white;
+   
+    height: 75px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#doli{
+    color: white;
+}
+
+.menu{
+    color:wheat;
+    
+    height: 75px;
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.input{
+   
+    height: 75px;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.chombu{
+    color: white;
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    
+}
+#id{
+    color: lightgrey;
+}
+
+
+
+.hello1{
+    height: 75px;
+   
+    background-color: blue;
+    display: flex;
+}
+.logo{
+    color: white;
+    
+    height: 75px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu{
+    color: white;
+    
+    height: 75px;
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.input{
+    
+    height: 75px;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.chombu{
+    color: white;
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+button{
+    background-color: black;
+    color:blue;
+    
+}
+#id{
+    color: lightgrey;
+}
+
+
+.hello2{
+    height: 75px;
+    
+    background-color:lightcyan;
+    display: flex;
+}
+.log{
+    color: black;
+    
+    height: 75px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu{
+    color: black;
+    
+    height: 75px;
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.input{
+    
+    height: 75px;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.chombu{
+    color: black;
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+button{
+    background-color:  aliceblue;
+    color:black;
+    
+}
+#id{
+    color: grey;
+}
+

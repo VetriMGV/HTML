@@ -1,0 +1,32 @@
+div p{
+    color: blueviolet;
+}
+section+h1{
+    color: cyan;
+}
+div>h1{
+    color: greenyellow;
+}
+div~p{
+    color:orange;
+}
+h2::after{
+    content: "hello ,";
+
+}
+h2::before{
+    content: "smile plse...";
+}
+h3::first-letter{
+    color: brown;
+}
+h3::first-line{
+    color: darkolivegreen;
+}
+h3::selection{
+    background-color: bisque;
+    color: cornflowerblue;
+}
+li::marker{
+    color: crimson; size: 200px;
+}
