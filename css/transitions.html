@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transitions</title>
+    <style>
+        body{
+            background-color: bisque;
+            
+            justify-content: space-between;
+            align-items: center;
+            height: 100vh;
+            background-image: url("./login/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.avif");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+             background-attachment: fixed;
+        }
+        .container{
+            height: 200px;
+            width: 200px;
+            background-color: aqua;
+            margin: 10px;
+            transition-duration: 2s;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            
+        }
+       
+        .container:hover{
+            width: 250px;
+            color: whitesmoke;
+            background-color: slategrey;
+            border-radius: 20px;
+            padding: 10px;
+
+        }
+
+    </style>
+</head>
+<body>
+    <center><h1 style="color: whitesmoke;">Transitions</h1></center>
+    <div class="container" id="box1">box 1</div>
+    <div class="container" id="box2">box 2</div>
+    <div class="container" id="box3">box 3</div>
+    <div class="container" id="box4">box 4</div>
+
+   
+
+</body>
+</html>
